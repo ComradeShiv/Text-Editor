@@ -14,6 +14,9 @@ public class TextEditor implements ActionListener {
 //    Edit menu items
     JMenuItem cut, copy, paste, selectAll, close;
     JTextArea textArea;
+
+//    commented
+
     TextEditor() {
 //        Intialize a frame
         frame = new JFrame();
